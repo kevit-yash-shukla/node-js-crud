@@ -2,8 +2,23 @@
 
 this is a node js app which is use to perform create,read,update and delete operation using mongodb .
 
-peroform following steps to run project:
+# Pre-requisites
+- Install [Node.js](https://nodejs.org/en/) version 8.0.0
 
-1. clone repo locally into your system.
+perform following steps to run project:
 
-2. run npm start and your app be running at port 3000
+# Getting started
+- Clone the repository
+```
+git clone  <git lab template url> <project_name>
+```
+- Install dependencies
+```
+cd <project_name>
+npm install
+```
+- Build and run the project
+```
+npm start
+```
+  Navigate to `http://localhost:3000`
