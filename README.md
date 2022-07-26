@@ -3,7 +3,7 @@
 this is a node js app which is use to perform create,read,update and delete operation using mongodb .
 
 # Pre-requisites
-- Install [Node.js](https://nodejs.org/en/) version 8.0.0
+- Install [Node.js](https://nodejs.org/en/) version 18.0.0
 
 perform following steps to run project:
 
